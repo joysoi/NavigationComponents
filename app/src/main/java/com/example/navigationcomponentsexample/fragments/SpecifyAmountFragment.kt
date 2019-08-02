@@ -63,6 +63,5 @@ class SpecifyAmountFragment : Fragment(), View.OnClickListener {
             }
             R.id.cancel_btn -> activity!!.onBackPressed()
         }
-
     }
 }

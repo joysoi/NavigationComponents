@@ -18,6 +18,4 @@ class ViewBalanceFragment : Fragment() {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_view_balance, container, false)
     }
-
-
 }

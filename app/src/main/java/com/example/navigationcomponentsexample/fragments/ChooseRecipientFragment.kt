@@ -51,5 +51,4 @@ class ChooseRecipientFragment : Fragment(), View.OnClickListener {
             R.id.cancel_btn -> activity!!.onBackPressed()
         }
     }
-
 }
